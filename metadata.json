@@ -1,0 +1,6 @@
+{
+  "name": "Desk Calendar",
+  "description": "Responsive desktop & mobile calendar with Google Calendar sync, timeline agendas, and home screen widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
